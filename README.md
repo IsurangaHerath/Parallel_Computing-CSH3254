@@ -4,4 +4,6 @@
 
 Project 1- Basic parallel coding 
 
-Project 2- sent and receive integers
+Project 2- Sent and receive integers
+
+Project 3- Many to one data sent by parallel
