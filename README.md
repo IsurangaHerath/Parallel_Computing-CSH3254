@@ -8,4 +8,6 @@ Project 2- Sent and receive integers
 
 Project 3- Many to one data sent by parallel
 
-project 4- One to many data sent by parallel
+Project 4- One to many data sent by parallel
+
+Project 5- Ring topology and data parallel transmission
