@@ -13,3 +13,5 @@ Project 4- One to many data sent by parallel
 Project 5- Ring topology and data parallel transmission
 
 Tutorial 2- Advanced ring topolody data transfer
+
+Tutorial 2.2- Bus topology parallel data transfer
