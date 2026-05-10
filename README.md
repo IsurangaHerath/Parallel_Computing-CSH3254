@@ -16,5 +16,5 @@ Tutorial 2- Advanced ring topolody data transfer
 
 Tutorial 2.2- Bus topology parallel data transfer
 
-Tutorial 3- array passing from master to other processors
+Tutorial 3- Array passing from master to other processors
 
